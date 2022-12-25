@@ -1,0 +1,50 @@
+[
+    {
+        "id":1,
+        "category":"Technology And Media"
+    },
+    {
+
+        "id":2,
+        "category":"HealthCare"
+    },
+    {
+        "id":3,
+        "category":"Automotive"
+    },
+    {
+        "id":4,
+        "category":"Chemical & Material"
+    },
+    {
+        "id":5,
+        "category":"Business"
+    },
+    {
+        "id": 6,
+        "Category": "Food Beverage"
+    
+    },
+    {
+        "id": 7,
+        "Category": "Consumer Good"
+    
+    },
+    {
+        "id": 8,
+        "Category": "Aerospace"
+    
+    },
+    {
+        "id": 9,
+        "Category": "Information Technology"
+    
+    },
+    {
+        "id": 10,
+        "Category": "Pharma & Medical Devices"
+    }
+    
+
+]
+
